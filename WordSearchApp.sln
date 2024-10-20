@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearchApp", "WordSearchApp.csproj", "{F8FE4DDF-F1C3-4490-AB18-0E5716DAD5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FE4DDF-F1C3-4490-AB18-0E5716DAD5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FE4DDF-F1C3-4490-AB18-0E5716DAD5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FE4DDF-F1C3-4490-AB18-0E5716DAD5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FE4DDF-F1C3-4490-AB18-0E5716DAD5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38F988B-50D9-4805-AE7A-39D444E80C00}
+	EndGlobalSection
+EndGlobal
